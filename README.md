@@ -9,7 +9,7 @@
 
 <img src="https://images.deal.by/124330628_124330628.jpg?PIMAGE_ID=124330628" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/sketch">
+<a href="https://mac-apps-install.github.io/.github/sketch">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 
